@@ -1,0 +1,5 @@
+Credentials cache: API:90984F12-F4A4-4E33-86C1-4E0F312968BE
+        Principal: oel-maja@S19.BE
+
+  Issued                Expires               Principal
+Feb  2 11:47:04 2022  Feb  2 21:47:04 2022  krbtgt/S19.BE@S19.BE
